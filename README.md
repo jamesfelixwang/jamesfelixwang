@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jamesfelixwang/jamesfelixwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm James Wang! 👋
+# James Wang
 ### Aerospace Engineering Student & Aspiring Propulsion/Structural/Aerodynamics Engineer
 
 I am a sophomore studying Aeronautical and Astronautical Engineering at Purdue University. I sit at the intersection of fluid dynamics, structures, and software engineering—using code to model, simulate, and build the future of flight and space exploration.
