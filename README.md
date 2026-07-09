@@ -24,7 +24,7 @@ I am a sophomore studying Aeronautical and Astronautical Engineering at Purdue U
 ## 🚀 About Me
 - 🔭 **Current Focus:** Developing a high-altitude rocketry telemetry system.
 - 🏎️ **Extracurriculars:** Aerodynamics Engineer for Purdue Electric Racing.
-- ⚡ **Looking For:** Fall 2026 / Spring 2027 internships in Aerodynamics, GNC (Guidance, Navigation, and Control), or Propulsion.
+- ⚡ **Looking For:** Spring/Summer 2027 internships in Aerodynamics, GNC (Guidance, Navigation, and Control), or Propulsion.
 - ✉️ **Connect with me:** [[LinkedIn Profile Link]] | [Your Email Address]
 
 ---
